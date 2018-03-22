@@ -1,4 +1,4 @@
-#Current Projects
+# Current Projects
 
-##Information
-Please add links to your current projects here. 
+## Information
+Please add links to your current projects here.
