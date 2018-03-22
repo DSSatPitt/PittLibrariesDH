@@ -15,3 +15,5 @@ The Programming Historian tutorial is the thing I’d like you to prioritize bef
 •	GitHub, Academia, and Collaborative Writing. (2013). <https://www.hastac.org/blogs/harrisonm/2013/10/12/github-academia-and-collaborative-writing>
 •	Lincoln, M. D. (2016). Some problems with GLAM data on GitHub. <https://matthewlincoln.net/2016/01/06/some-problems-with-glam-data-on-github.html>
 •	Shared Practices in Museum Open Collections Data – Berkman Klein Center Collection – Medium. (2017). <https://medium.com/berkman-klein-center/shared-practices-in-museum-open-collections-data-72e924c4849a>
+
+We created repositories on our local machines and worked with Atom to do some Markdown. 
