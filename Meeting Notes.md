@@ -4,7 +4,7 @@
 In this document we will collect meeting notes from past meetings of this working group to facilitate new members and current members finding old information.
 
 ## February 14, 2018
-We’ll base this on the Caleb Mc Daniel’s lesson on the Programming Historian site, [“An Introduction to Version Control Using GitHub Desktop”] (https://programminghistorian.org/lessons/getting-started-with-github-desktop).
+We’ll base this on the Caleb Mc Daniel’s lesson on the Programming Historian site, “An Introduction to Version Control Using GitHub Desktop” <https://programminghistorian.org/lessons/getting-started-with-github-desktop>.
 
 In order to make the most of our short time, for anyone who would like to actively participate in the tutorial during our practice group time: please begin the tutorial on your own up through the “Getting Started” section. That means you’ll read some background about version control, what are Git and GitHub, register for a GitHub account, and install GitHub desktop on your device. We can discuss or troubleshoot these things at the start of our Wednesday meeting time, but hopefully before long we can dive right into the GitHub workflow together. Let me know if you have any questions!
 
