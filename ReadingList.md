@@ -4,11 +4,14 @@
     * Some reading that is awesome!
     * Here is another one. It is okay.
     * This one isn't great.
+	* Boy, I have no idea what else to add. Let me [google it for you.](http://www.google.com)
 
 * DH Readings from Previous Meetings
-    * From December 7, 2016 [Process as Product: Scholarly Communication Experiments in the Digital Humanities](https://jlsc-pub.org/articles/abstract/10.7710/2162-3309.1137/) 
+    * From December 7, 2016 [Process as Product: Scholarly Communication Experiments in the Digital Humanities](https://jlsc-pub.org/articles/abstract/10.7710/2162-3309.1137/)
+    * From October 31, 2016 [Digital Humanities in the Library isn’t a Service](http://trevormunoz.com/notebook/2012/08/19/doing-dh-in-the-library.html) 
 
 * Using GitHub
+	* [Introductory Tutorial to using GitHub, by GitHub](https://patchwork.github.io/curriculum/)
     * The Programming Historian [An Introduction to Version Control Using GitHub Desktop](https://programminghistorian.org/lessons/getting-started-with-github-desktop)
 	* GitHub Desktop User Guide: [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started-with-github-desktop/)
 	* GitHub Desktop User Guide: [Contributing to Projects with GitHub Desktop](https://help.github.com/desktop/guides/contributing-to-projects/)
