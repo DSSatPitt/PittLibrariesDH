@@ -6,7 +6,8 @@
     * This one isn't great.
 
 * DH Readings from Previous Meetings
-    * From December 7, 2016 [Process as Product: Scholarly Communication Experiments in the Digital Humanities](https://jlsc-pub.org/articles/abstract/10.7710/2162-3309.1137/) 
+    * From December 7, 2016 [Process as Product: Scholarly Communication Experiments in the Digital Humanities](https://jlsc-pub.org/articles/abstract/10.7710/2162-3309.1137/)
+    * From October 31, 2016 [Digital Humanities in the Library isn’t a Service](http://trevormunoz.com/notebook/2012/08/19/doing-dh-in-the-library.html) 
 
 * Using GitHub
     * The Programming Historian [An Introduction to Version Control Using GitHub Desktop](https://programminghistorian.org/lessons/getting-started-with-github-desktop)
