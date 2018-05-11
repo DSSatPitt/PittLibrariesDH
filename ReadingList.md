@@ -11,6 +11,7 @@
     * From October 31, 2016 [Digital Humanities in the Library isn’t a Service](http://trevormunoz.com/notebook/2012/08/19/doing-dh-in-the-library.html) 
 
 * Using GitHub
+	* [Introductory Tutorial to using GitHub, by GitHub](https://patchwork.github.io/curriculum/)
     * The Programming Historian [An Introduction to Version Control Using GitHub Desktop](https://programminghistorian.org/lessons/getting-started-with-github-desktop)
 	* GitHub Desktop User Guide: [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started-with-github-desktop/)
 	* GitHub Desktop User Guide: [Contributing to Projects with GitHub Desktop](https://help.github.com/desktop/guides/contributing-to-projects/)
